@@ -5,7 +5,7 @@ ssh-askpass for OS X/macOS. Works in (at least) 10.7+ (including Mojave)
 
 Used to accept (or deny) the use of the private key(s) added to the SSH authentication agent with `ssh-add -c`.
 
-![Screenshot](https://github.com/theseal/ssh-askpass/raw/master/sample/ssh-askpass.png)
+![Screenshot](https://github.com/gaelicWizard/ssh-askpass/raw/main/sample/ssh-askpass.png)
 
 **If you’re having trouble with ssh-askpass after OS upgrade, please follow the installation steps again.**
 
@@ -15,7 +15,7 @@ Used to accept (or deny) the use of the private key(s) added to the SSH authenti
 * Run:
 
     ```
-    $ brew install theseal/ssh-askpass/ssh-askpass
+    $ brew install gaelicWizard/ssh-askpass/ssh-askpass
     ```
 * Follow caveats
 
